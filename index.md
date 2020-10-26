@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vidiems/brainny.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vidiems/brainny.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+Bengali+UI&display=swap" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap" rel="stylesheet" />
+	<link href="./CSS/main.css" rel="stylesheet" />
+<title>Brainny Quiz App</title>
+</head>
+<body>
+	<div class="v1_2">
+		<div class="v1_53"></div>
+		<div class="v1_54"></div>
+		<div class="v1_55"></div>
+		<div class="v1_56"></div>
+		<div class="v1_57"></div>
+		<div class="v1_58"></div>
+		<div class="v1_59"></div>
+		<div class="v1_60"></div>
+		<div class="v1_61"></div>
+		<div class="v1_68">
+			<div class="v1_69"></div>
+			<div class="v1_70"></div>
+		</div>
+			<div class="v1_51"></div>
+			<div class="v1_52"></div>
+			<div class="v1_63"></div>
+			<div class="v1_64"></div>
+			<div class="v1_67"></div>
+			<div class="v1_62"></div>
+			<div class="v1_65"></div>
+			<div class="v1_66"></div>
+			<div class="v1_71">
+				<div class="v1_72">
+					
+				</div>
+				<div class="v1_73"></div>
+			</div><span class="v1_74">BRAINNY KIDS QUIZ</span>
+<a href="http://localhost/braaa/register.html" class="square_btn">Get Started</a></div></body></html>
